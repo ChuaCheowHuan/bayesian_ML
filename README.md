@@ -10,7 +10,7 @@ The following are implemented:
 
 1) Function that avoids computing inverse of matrix when computing
 
-$y = A^{-1}x$ 
+<img src="https://render.githubusercontent.com/render/math?math=y = A^{-1}x">
 
 by solving system of linear equations.
 
