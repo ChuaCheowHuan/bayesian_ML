@@ -9,9 +9,7 @@ lower bound as a stopping criterion.
 The following are implemented:
 
 1) Function that avoids computing inverse of matrix when computing
-
 <img src="https://render.githubusercontent.com/render/math?math=y = A^{-1}x">
-
 by solving system of linear equations.
 
 2) Log sum trick to avoid underflow when multiplying small numbers.
