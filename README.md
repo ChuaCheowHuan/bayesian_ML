@@ -11,6 +11,8 @@ The following are implemented:
 1) Function that avoids computing inverse of matrix when computing
 $$y = A^{-1}x$$ by solving system of linear equations.
 
+$$Q_{\theta}$$
+
 2) Log sum trick to avoid underflow when multiplying small numbers.
 
 3) pdf of the Multivariate normal distribution
