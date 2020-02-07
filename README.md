@@ -40,4 +40,4 @@ Clusters:
 
 ---
 
-[My blog](https://ChuaCheowHuan.github.io/)
+Check out my [blog](https://ChuaCheowHuan.github.io/) for more details.
