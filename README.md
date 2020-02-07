@@ -37,3 +37,7 @@ Data:
 Clusters:
 
 ![](https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/clusters.png)
+
+---
+
+[My blog](https://ChuaCheowHuan.github.io/)
