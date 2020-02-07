@@ -8,25 +8,25 @@ lower bound as a stopping criterion.
 
 The following are implemented:
 
-1) Function that avoids computing inverse of matrix when computing
+(1) Function that avoids computing inverse of matrix when computing
 <img src="https://render.githubusercontent.com/render/math?math=y = A^{-1}x">
 by solving system of linear equations.
 
-2) Log sum trick to avoid underflow when multiplying small numbers.
+(2) Log sum trick to avoid underflow when multiplying small numbers.
 
-3) pdf of the Multivariate normal distribution
+(3) pdf of the Multivariate normal distribution
 
-4) E-step function of the EM algorithm
+(4) E-step function of the EM algorithm
 
-5) M-step function of the EM algorithm
+(5) M-step function of the EM algorithm
 
-6) Variational lower bound function
+(6) Variational lower bound function
 
-7) GMM function
+(7) GMM function
 
-8) Training function for GMM
+(8) Training function for GMM
 
-9) Scatter plot of clusters (Plot at the bottom shows results of 8 clusters from
+(9) Scatter plot of clusters (Plot at the bottom shows results of 8 clusters from
   a dataset of 100 points)
 
 ---
