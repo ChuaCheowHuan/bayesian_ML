@@ -27,9 +27,11 @@ y=(A_inverse)x by solving system of linear equations.
 9) Scatter plot of clusters (Plot at the bottom shows 8 clusters from a dataset of 100 points)
 
 ---
+Data:
 
-![Data:][https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/data.png]
+![image:][https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/data.png]
 
 ---
+Clusters:
 
-![Clusters:][https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/clusters.png]
+![image:][https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/clusters.png]
