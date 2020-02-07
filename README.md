@@ -24,7 +24,8 @@ y=(A_inverse)x by solving system of linear equations.
 
 8) Training function for GMM
 
-9) Scatter plot of clusters (Plot at the bottom shows 8 clusters from a dataset of 100 points)
+9) Scatter plot of clusters (Plot at the bottom shows results of 8 clusters from
+  a dataset of 100 points)
 
 ---
 Data:
