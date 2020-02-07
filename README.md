@@ -29,9 +29,11 @@ y=(A_inverse)x by solving system of linear equations.
 ---
 Data:
 
-![image:][https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/data.png]
+![image][https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/data.png]
+
+![image][https://github.com/ChuaCheowHuan/gym-continuousDoubleAuction/blob/master/pic/agent0and1.png]
 
 ---
 Clusters:
 
-![image:][https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/clusters.png]
+![image][https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/clusters.png]
