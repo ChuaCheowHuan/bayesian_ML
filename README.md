@@ -26,7 +26,7 @@ by solving system of linear equations.
 
 (8) Training function for GMM
 
-(9) Scatter plot of clusters (Plot at the bottom shows results of 8 clusters from
+(9) Scatter plot of clusters (Plot at the bottom shows results of 7 clusters from
   a dataset of 100 points)
 
 ---
@@ -38,7 +38,3 @@ Data:
 Clusters:
 
 ![](https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/clusters.png)
-
----
-
-Check out my [blog](https://ChuaCheowHuan.github.io/) for more details.
