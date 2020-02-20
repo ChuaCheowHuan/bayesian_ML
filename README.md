@@ -3,9 +3,9 @@
 This repository contains implementation of the following Bayesian based machine
 learning algorithms:
 
-(1) [GMM (Gaussian mixture model) clustering](#gmm)
+(1) [GMM](#gmm) (Gaussian mixture model) clustering
 
-(2) [VAE (Variational Autoencoder)](#vae) with mnist dataset
+(2) [VAE](#vae) (Variational Autoencoder) with mnist dataset
 
 The Jupyter notebooks are tested on Colab.
 
