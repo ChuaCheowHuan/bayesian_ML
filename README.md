@@ -5,7 +5,7 @@ learning algorithms:
 
 (1) [GMM (Gaussian mixture model) clustering](#gmm)
 
-(2) [VAE (Variational Autoencoder)](#Variational-Autoencoder) with mnist dataset
+(2) [VAE (Variational Autoencoder)](#vae) with mnist dataset
 
 The Jupyter notebooks are tested on Colab.
 
