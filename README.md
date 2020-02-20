@@ -7,6 +7,8 @@ learning algorithms:
 
 (2) [VAE](#vae) (Variational Autoencoder) with mnist dataset
 
+(3) [conditional VAE](#conditional-vae) (Conditional Variational Autoencoder) with mnist dataset
+
 The Jupyter notebooks are tested on Colab.
 
 ---
@@ -61,3 +63,11 @@ VAE output of train & validation data:
 VAE decoder output with random Gaussian noise, sample from the prior distribution p(t) (Gaussian) and then from the likelihood p(x | t):
 
 ![](https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/vae_mnist_N_gen.png)
+
+---
+
+## Conditional VAE
+
+Conditional VAE decoder output with random Gaussian noise, sample from the prior distribution p(t) (Gaussian) and then from the likelihood p(x | t):
+
+![](https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/cond_vae_mnist_N_gen.png)
