@@ -3,14 +3,14 @@
 This repository contains the following Bayesian based machine learning
 implementations:
 
-(1) [GMM (Gaussian mixture model) clustering](#"gmm")
+(1) [GMM (Gaussian mixture model) clustering](#gmm)
 
 
-(2) [Variational Autoencoder (VAE)](#"vae") with mnist dataset
+(2) [Variational Autoencoder (VAE)](#vae) with mnist dataset
 
 ---
 
-<div id="gmm">
+# gmm
 
 **GMM (Gaussian mixture model) clustering with EM (expectation maximization)
 algorithm & using variational lower bound as a stopping criterion.**
@@ -48,7 +48,7 @@ GMM clusters:
 
 ---
 
-<div id="vae">
+# vae
 
 **Variational Autoencoders (VAE) with mnist dataset**
 
