@@ -6,7 +6,7 @@ implementations:
 (1) [GMM (Gaussian mixture model) clustering](#"gmm")
 
 
-(2) Variational Autoencoder (VAE) with mnist dataset
+(2) [Variational Autoencoder (VAE)](#"vae") with mnist dataset
 
 ---
 
@@ -47,6 +47,8 @@ GMM clusters:
 ![](https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/gmm_cluster.png)
 
 ---
+
+<div id="vae">
 
 **Variational Autoencoders (VAE) with mnist dataset**
 
