@@ -6,14 +6,12 @@ implementations:
 (1) [GMM (Gaussian mixture model) clustering](#gmm)
 
 
-(2) [Variational Autoencoder (VAE)](#vae) with mnist dataset
+(2) [Variational Autoencoder (VAE)](#Variational-Autoencoders) with mnist dataset
 
 ---
 
 # GMM
-
-**GMM (Gaussian mixture model) clustering with EM (expectation maximization)
-algorithm & using variational lower bound as a stopping criterion.**
+(Gaussian mixture model) clustering with EM (expectation maximization) algorithm & using variational lower bound as a stopping criterion.
 
 The following are implemented:
 
@@ -48,9 +46,8 @@ GMM clusters:
 
 ---
 
-# VAE
-
-**Variational Autoencoders (VAE) with mnist dataset**
+# Variational Autoencoders
+(VAE) with mnist dataset
 
 VAE graph:
 
