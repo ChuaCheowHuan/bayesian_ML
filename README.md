@@ -5,13 +5,13 @@ learning algorithms:
 
 (1) [GMM (Gaussian mixture model) clustering](#gmm)
 
-(2) [Variational Autoencoder (VAE)](#Variational-Autoencoder) with mnist dataset
+(2) [VAE (Variational Autoencoder)](#Variational-Autoencoder) with mnist dataset
 
 The Jupyter notebooks are tested on Colab.
 
 ---
 
-# GMM
+## GMM
 (Gaussian mixture model) clustering with EM (expectation maximization) algorithm & using variational lower bound as a stopping criterion.
 
 The following are implemented:
@@ -47,8 +47,8 @@ GMM clusters:
 
 ---
 
-# Variational Autoencoder
-(VAE) with mnist dataset
+## VAE
+Variational Autoencoder with mnist dataset
 
 VAE graph:
 
