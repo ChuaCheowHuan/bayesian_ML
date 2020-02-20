@@ -112,6 +112,12 @@ def create_decoder(input_dim):
 decoder = create_decoder(latent_dim)
 x_decoded_mean = decoder(t)
 
+
+
+writer = tf.summary.FileWriter('log', sess.graph)
+
+
+
 """Setup the model."""
 
 loss = vlb_bernoulli(x, x_decoded_mean, t_mean, t_log_var)
@@ -154,6 +160,12 @@ hist = vae.fit(x=x_train,
                batch_size=batch_size,
                validation_data=(x_test, x_test), # note x_test is used in the 2nd input, not y_test
                verbose=2)
+
+
+
+writer.close()
+
+
 
 """Plot mnist & generated output.
 

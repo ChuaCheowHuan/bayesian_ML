@@ -1,10 +1,16 @@
 # What's in this repository?
 
-This repository contains the implementation of GMM (Gaussian mixture model)
-clustering with EM (expectation maximization) algorithm & using variational
-lower bound as a stopping criterion.
+This repository contains the following Bayesian based machine learning
+implementations:
+
+(1) GMM (Gaussian mixture model) clustering
+
+(2) Variational Autoencoders (VAE) with mnist dataset
 
 ---
+
+GMM (Gaussian mixture model) clustering with EM (expectation maximization)
+algorithm & using variational lower bound as a stopping criterion.
 
 The following are implemented:
 
@@ -29,12 +35,26 @@ by solving system of linear equations.
 (9) Scatter plot of clusters (Plot at the bottom shows results of 7 clusters from
   a dataset of 100 points)
 
----
 Data:
 
-![](https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/data.png)
+![](https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/gmm_data.png)
+
+GMM clusters:
+
+![](https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/gmm_clusters.png)
 
 ---
-Clusters:
 
-![](https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/clusters.png)
+Variational Autoencoders (VAE) with mnist dataset
+
+VAE graph:
+
+![](https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/vae_mnist_graph.png)
+
+VAE output of train & validation data:
+
+![](https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/vae_mnist_train_val.png)
+
+VAE decoder output with random Gaussian noise, sample from the prior distribution p(t) (Gaussian) and then from the likelihood p(x | t):
+
+![](https://github.com/ChuaCheowHuan/GMM_clustering/blob/master/png/vae_mnist_N_gen.png)
