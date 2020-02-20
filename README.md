@@ -7,7 +7,7 @@ learning algorithms:
 
 (2) [VAE](#vae) (Variational Autoencoder) with mnist dataset
 
-(3) [conditional VAE](#conditional-vae) (Conditional Variational Autoencoder) with mnist dataset
+(3) [Conditional VAE](#conditional-vae) (Conditional Variational Autoencoder) with mnist dataset
 
 The Jupyter notebooks are tested on Colab.
 
