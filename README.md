@@ -10,7 +10,7 @@ implementations:
 
 ---
 
-# gmm
+# GMM
 
 **GMM (Gaussian mixture model) clustering with EM (expectation maximization)
 algorithm & using variational lower bound as a stopping criterion.**
@@ -48,7 +48,7 @@ GMM clusters:
 
 ---
 
-# vae
+# VAE
 
 **Variational Autoencoders (VAE) with mnist dataset**
 
