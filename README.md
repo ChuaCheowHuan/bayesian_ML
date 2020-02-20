@@ -1,12 +1,13 @@
 # What's in this repository?
 
-This repository contains the following Bayesian based machine learning
-implementations:
+This repository contains implementation of the following Bayesian based machine
+learning algorithms:
 
 (1) [GMM (Gaussian mixture model) clustering](#gmm)
 
+(2) [Variational Autoencoder (VAE)](#Variational-Autoencoder) with mnist dataset
 
-(2) [Variational Autoencoder (VAE)](#Variational-Autoencoders) with mnist dataset
+The Jupyter notebooks are tested on Colab.
 
 ---
 
@@ -46,7 +47,7 @@ GMM clusters:
 
 ---
 
-# Variational Autoencoders
+# Variational Autoencoder
 (VAE) with mnist dataset
 
 VAE graph:
